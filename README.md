@@ -11,6 +11,8 @@ Hubstudio指纹浏览器怎么样？Hubstudio指纹浏览器介绍
 # 实用工具助力运营：
 可搭配 Heygen 等各种实用工具，有助于提升跨境电商业务运营效率。集成市面上主流的 IP 代理，包括支持 IPv6，主要有 911s5、luminati、http、socks5、https、SSH 等，方便用户根据需求选择合适的代理协议，满足不同业务场景下的网络需求。
 
+![image](https://raw.githubusercontent.com/52cuiJD/Hubstudio/refs/heads/main/20250401225034429.png)
+
 此外，Hubstudio 指纹浏览器还具有高级指纹参数加持、支持环境账号转移、提供丰富的应用插件支持等特点，能为账号提供独立安全的浏览环境，保护用户数据隐私。
 同时，它集成了市面上主流的 IP 代理，包括支持 IPv6，为用户提供了更多的选择
 
